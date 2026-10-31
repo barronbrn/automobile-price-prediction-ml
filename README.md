@@ -110,37 +110,3 @@ Berdasarkan analisis nilai **SHAP (SHapley Additive exPlanations)**:
 ├── 📄 .gitignore                         # File konfigurasi Git
 └── 📄 README.md                          # Dokumentasi proyek
 ```
-
----
-
-## 🚀 Panduan Instalasi & Penggunaan
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/barronbrn/automobile-price-prediction-ml.git
-cd automobile-price-prediction-ml
-```
-
-### 2. Buat Lingkungan Virtual & Install Dependensi
-```bash
-python -m venv venv
-# Windows:
-.\venv\Scripts\activate
-# Linux/macOS:
-source venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-### 3. Jalankan Jupyter Notebook
-```bash
-jupyter notebook automobile_price_prediction.ipynb
-```
-
----
-
-## 👨‍💻 Kontributor
-
-**Dani Herawan**  
-*Program Studi Teknik Informatika, Universitas Komputer Indonesia (UNIKOM)*  
-Sertifikasi Kompetensi BNSP - Associate Data Scientist
